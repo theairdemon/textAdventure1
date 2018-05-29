@@ -1,0 +1,3 @@
+Plain text = Computer
+[TEXT] = saved variable, entered by user
+(text) = action performed by computer

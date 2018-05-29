@@ -1,0 +1,54 @@
+TEST WORLD 1
+
+Hello. Welcome to Test World 1.
+
+Thank you for playtesting in this stage of development. We appreciate all
+feedback regarding the game, and any critiques would be appreciated.
+
+Before we begin, please sign up for an account to save your progress:
+Username: [USERNAME1]
+Password: [PASSWORD1]
+
+(blankx100)
+
+Processing...(slow dots)
+
+(blankx100)
+
+Hmm, that username seems to be taken. Please try again:
+Username: [USERNAME2]
+Password: [PASSWORD2]
+
+(blankx100)
+
+Processing...(slow dots)
+
+(blankx100)
+
+Hmm, that username seems to be taken. Please try again:
+Username: [USERNAME2]
+Password: [PASSWORD2]
+
+(blankx100)
+
+Processing...(slow dots)
+
+(blankx100)
+
+Hmm, that username seems to be taken. Please t
+(random character sequence for 500 lines, fast)
+
+(blankx100)
+(pause)
+
+Error Report x5903381: Unknown function. Request Administrator assistance.
+
+Please stand by...(slow dots, repeat)
+
+//IF IN VERSION 1.0
+System Failure. Exiting Program.
+
+//IF 1.1 OR HIGHER
+System Failure. Rebooting...(slow dots, repeat)
+
+(blankx100)
