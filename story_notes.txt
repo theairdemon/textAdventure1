@@ -1,3 +1,4 @@
 Plain text = Computer
-[TEXT] = saved variable, entered by user
+[TEXT] = saved variable, entered by users
 (text) = action performed by computer
+//text = comment for me
