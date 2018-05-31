@@ -45,13 +45,13 @@ Hmm, that username seems to be taken. Please t
 
 Error Report x5903381: Unknown function. Request Administrator assistance.
 
-Please stand by...(slow dots, repeat)
+Please stand by...(loading dots, repeatx6)
 
 //IF IN VERSION 1.0
 System Failure. Exiting Program.
 
 //IF 1.1 OR HIGHER
-System Failure. Rebooting...(slow dots, repeat)
+System Failure. Rebooting...(loading dots, repeatx5)
 
 (blankx100)
 
@@ -60,3 +60,21 @@ Apologies for the inconvenience. Let's begin again.
 (blankx100)
 
 Hello. Welcome to Test World 1.
+(wait 1500)
+
+Thank you for playtesting in this stage of development. We appreciate all
+feedba
+(random character sequence for 100 lines, fast)
+
+(blankx100)
+
+wait(5000)
+
+Error Report x5903381: Unknown function. Request Administrator assistance.
+wait(1500)
+
+(blankx100)
+
+Error Report x3566185: Administrator not found.
+
+Please stand by... (loading dots, repeatx5)

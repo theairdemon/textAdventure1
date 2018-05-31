@@ -92,4 +92,40 @@ public class PrntCmds {
       System.out.print("\b \b");
     }
   }
+
+  /**
+   * loads dots for computer processing
+   * @param numDots How many dots to load
+   * @param numLoad How many times should it load numDots
+  */
+  public static void loadDots(int numDots, int numLoad){
+    for (int i = 0; i < numLoad; i++){
+      for (int j = 0; j < numDots; j++){
+        System.out.print(".");
+        wait(500);
+      }
+      for (int k = 0; k < numDots; k++){
+        System.out.print("\b \b");
+      }
+      wait(500);
+    }
+  }
+
+  /**
+   * generates random strings of characters
+   * @param numLines Number of random lines to generate
+   * @param stringLength number of characters in the line
+   * @param speedVal speed of the typing
+  */
+  public static void randomChar(int numLines, int stringLength, int speedVal){
+    for (int i = 0; i < numLines; i++){
+      for (int j = 0; j < stringLength; j++){
+        Random r = new Random();
+        char c = (char)(r.nextInt(26) + 'a');
+        String randChar = Character.toString(c);
+        typeWrite2(randChar, speedVal);
+      }
+      System.out.println(" ");
+    }
+  }
 }
